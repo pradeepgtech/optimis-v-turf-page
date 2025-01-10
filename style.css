@@ -1,0 +1,20 @@
+button{
+   background-color: green;
+   color:white;
+}
+
+.cent{
+    margin-left:500px;
+    color:red
+}
+
+h1{
+   color:blueviolet;
+}
+
+button:hover{
+   font-size:15px;
+}
+p{
+   font-size:15px;
+}
